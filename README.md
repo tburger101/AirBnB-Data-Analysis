@@ -1,5 +1,5 @@
 # AirBnB-Data-Analysis
-This project analyzes Seattle AirBnB data.  I am looking to answer the question of what factors effect the prices of listings.
+This project analyzes Seattle AirBnB data.  In particular I am looking to see what attributes, time of year, and neighborhoods have the greatest impact on price.
 
 ## Required Libraries
 sklearn
