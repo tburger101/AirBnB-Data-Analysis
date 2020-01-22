@@ -24,7 +24,7 @@ AirBnB.ipynb - This is jupyter notebook where the data analysis is done.
 
 listing.csv - This file provides attributes that describe each listing i.e. bedrooms, neighborhood, property type etc.
 
-calendar.csv This file was not included due to it's size.  It can be downloaded from https://www.kaggle.com/airbnb/seattle/data
+calendar.csv This file was not included due to it's size.  Download from https://www.kaggle.com/airbnb/seattle/data
 
 ## Acknowledgements
 https://pbpython.com/currency-cleanup.html - Used as a resource to clean some data
