@@ -13,11 +13,13 @@ The data being analyzed comes from a kaggle competition.
 https://www.kaggle.com/airbnb/seattle/data
 
 We focused on two specific files:
+
 calendar.csv - This shows what listings are available each day throughout the year and how much the listings are cost on that date.
 
 listing.csv   - This file provides attributes that describe each listing i.e. bedrooms, neighborhood, property type etc.
 
 ## Files
+
 AirBnB.ipynb - This is jupyter notebook where the data analysis is done.
 
 listing.csv - This file provides attributes that describe each listing i.e. bedrooms, neighborhood, property type etc.
