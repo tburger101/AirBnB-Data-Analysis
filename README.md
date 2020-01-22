@@ -8,6 +8,14 @@ pandas
 matplotlib
 seaborn as sns
 
+## Files
+
+AirBnB.ipynb - This is jupyter notebook where the data analysis is done.
+
+listing.csv - listing attribute data.
+
+calendar.csv This file was not included due to it's size.  Download from https://www.kaggle.com/airbnb/seattle/data
+
 ## Data
 The data being analyzed comes from a kaggle competition.  
 https://www.kaggle.com/airbnb/seattle/data
@@ -18,13 +26,7 @@ calendar.csv - This shows what listings are available each day throughout the ye
 
 listing.csv   - This file provides attributes that describe each listing i.e. bedrooms, neighborhood, property type etc.
 
-## Files
 
-AirBnB.ipynb - This is jupyter notebook where the data analysis is done.
-
-listing.csv - This file provides attributes that describe each listing i.e. bedrooms, neighborhood, property type etc.
-
-calendar.csv This file was not included due to it's size.  Download from https://www.kaggle.com/airbnb/seattle/data
 
 ## Acknowledgements
 https://pbpython.com/currency-cleanup.html - Used as a resource to clean some data
