@@ -1,6 +1,8 @@
 # AirBnB-Data-Analysis
 This project analyzes Seattle AirBnB data.  In particular I am looking to see what attributes, time of year, and neighborhoods have the greatest impact on price.
 
+The only file included in the repo is an ipython Notebook which explores the AirBnB data and runs a linear regression to determine the primary factors driving price.  In order to get the CSVs used in the notebook you can navigate to the kaggle site listed below.  The calendar.csv file was too big to be stored in the repo so both were omitted.
+
 ## Required Libraries
 * sklearn
 * numpy
@@ -8,22 +10,15 @@ This project analyzes Seattle AirBnB data.  In particular I am looking to see wh
 * matplotlib
 * seaborn
 
-## Files
-
-* AirBnB.ipynb - This is jupyter notebook where the data analysis is done.
-* listing.csv - listing attribute data.
-* calendar.csv This file was not included due to it's size.  Download from https://www.kaggle.com/airbnb/seattle/data
-
 ## Data
 The data being analyzed comes from a kaggle competition.  
 https://www.kaggle.com/airbnb/seattle/data
 
 We focused on two specific files:
+Both of the below files can be downloaded from: https://www.kaggle.com/airbnb/seattle/data
 
 * calendar.csv - This shows what listings are available each day throughout the year and how much the listings are cost on that date.
 * listing.csv   - This file provides attributes that describe each listing i.e. bedrooms, neighborhood, property type etc.
-
-
 
 ## Acknowledgements
 https://pbpython.com/currency-cleanup.html - Used as a resource to clean some data
