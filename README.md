@@ -30,3 +30,5 @@ As well as being the most popular they also tend to be the most expensive.  Howe
 the summer months there are around 40% of units which never vary their price.  These are probably the AirBnBs that offer the best
 deals.
 
+A blog describing the findings also appears here: https://medium.com/@travis.rothlisberger/finding-a-deal-in-the-seattle-airbnb-market-21963c5e66e6
+
